@@ -1,6 +1,3 @@
-
- 
-
 #!/usr/bin/python3
 # 10-square.py
 # Brennan D Baraban <375@holbertonschool.com>
